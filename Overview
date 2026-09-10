@@ -1,0 +1,8 @@
+## Overview
+
+This project is a hands-on cybersecurity lab focused on Docker
+network segmentation, controlled lateral movement, routing concepts,
+pfSense firewall policy, and container resource hardening.
+
+The lab was designed from a cybersecurity and SOC perspective rather
+than as a Docker development project.
