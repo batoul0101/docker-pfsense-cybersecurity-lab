@@ -1,0 +1,34 @@
+pfSense Firewall Verification
+
+Rule:
+BLOCK IPv4 TCP/22
+
+Configuration Status:
+Configured
+
+Traffic Traversal Through pfSense:
+Not yet proven
+
+Rule Match:
+Not yet proven
+
+Firewall Deny:
+Not yet proven
+
+Firewall Log Evidence:
+Not yet captured
+
+
+Current Conclusion:
+The TCP/22 block rule exists, but enforcement against attacker-to-target
+traffic has not yet been verified.
+
+
+Next Verification Steps:
+
+1. Complete routing through pfSense.
+2. Verify attacker-to-target traffic traverses pfSense.
+3. Test an allowed service.
+4. Apply/test TCP/22 blocking.
+5. Inspect pfSense firewall logs.
+6. Save sanitized log evidence here.
