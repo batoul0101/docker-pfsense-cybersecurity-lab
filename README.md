@@ -59,7 +59,6 @@ pfSense LAN: 192.168.50.1
 ```text
 docs/
 diagrams/
-screenshots/
 ```
 
 ## Future Enhancements
