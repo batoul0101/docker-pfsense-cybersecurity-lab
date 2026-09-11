@@ -1,0 +1,10 @@
+            Internet
+                |
+             pfSense
+                |
+         ----------------
+         |              |
+   attacker-net    target-net
+    10.10.10.0     10.10.20.0
+         |              |
+   scripting-lab    target-lab
