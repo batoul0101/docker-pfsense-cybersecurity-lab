@@ -57,8 +57,11 @@ pfSense LAN: 192.168.50.1
 ## Repository Structure
 
 ```text
-docs/
-diagrams/
+📁 docs/        → Documentation and project notes
+📁 docker/      → Docker commands and container details
+📁 pfsense/     → Firewall and routing configuration
+📁 diagrams/    → Network architecture diagrams
+📁 evidence/    → Validation and testing evidence
 ```
 
 ## Future Enhancements
