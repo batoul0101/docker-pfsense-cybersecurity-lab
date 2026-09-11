@@ -46,23 +46,6 @@ pfSense LAN: 192.168.50.1
 - Resource Hardening
 - Defense in Depth
 
-## Screenshots
-
-### Docker Networks
-
-![Docker Networks](screenshots/docker-networks.png)
-
-### Containers
-
-![Containers](screenshots/containers.png)
-
-### pfSense Firewall Rule
-
-![pfSense Rule](screenshots/pfsense-rule.png)
-
-### Segmentation Test
-
-![Segmentation Test](screenshots/segmentation-test.png)
 
 ## Key Findings
 
